@@ -34,7 +34,8 @@ These algorithms were evaluated based on their performance in accurately detecti
 
 ## Website Screenshots:
 The rows that are coloured white in the dataset represent legitimate transactions, while the rows that are coloured red represent fraudulent transactions: 
-![image](https://github.com/AbhirajkarBajpai/Fraud_detection_Webapp/assets/122393161/8dffb461-788f-45bd-abe3-5e9987befd3b)
+![image](https://github.com/AbhirajkarBajpai/Fraud_detection_Webapp/assets/122393161/f9559846-a83a-42da-adad-95bd603bba6c)
+
 
 
 
