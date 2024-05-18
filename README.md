@@ -32,4 +32,9 @@ Several machine learning algorithms were employed to classify transactions as ei
 
 These algorithms were evaluated based on their performance in accurately detecting fraudulent transactions.
 
+## Website Screenshots:
+The rows that are coloured white in the dataset represent legitimate transactions, while the rows that are coloured red represent fraudulent transactions: 
+![image](https://github.com/AbhirajkarBajpai/Fraud_detection_Webapp/assets/122393161/8dffb461-788f-45bd-abe3-5e9987befd3b)
+
+
 
